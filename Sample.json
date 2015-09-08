@@ -1,0 +1,32 @@
+{
+	"key1" : "String",
+	"key2" : 1000,
+	"key3" : true,
+	"key4" : null,
+	"key5" : {
+		"key5_1" : "String",
+		"key5_2" : 1000.1111,
+		"key5_3" : true,
+		"key5_4" : null
+	},
+	"key6" : [
+		"String",
+		1000,
+		true,
+		null
+	],
+	"key7" : [
+		{
+			"key6_1" : "String"
+		},
+		{
+			"key6_2" : 1000
+		},
+		{
+			"key6_3" : true
+		},
+		{
+			"key6_4" : null
+		}
+	]
+}
